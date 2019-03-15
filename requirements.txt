@@ -1,0 +1,9 @@
+Django
+django-storages
+django-heroku
+djangorestframework
+django-rest-swagger
+markdown
+gunicorn
+pytz
+coreapi
